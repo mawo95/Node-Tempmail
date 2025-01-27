@@ -1,4 +1,5 @@
 # Trashmail Node.js Library
+# DISCONTINUED!!!
 
 A simple Node.js library to generate disposable email addresses, monitor inboxes, and manage temporary emails.
 
